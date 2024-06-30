@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_tx15">
+		<text>Lone Star TX-15 DML</text>
+	</string>
+	<string id="st_wpn_tx15_descr">
+		<text>
+		The TX15 Designated Marksman Light (DML) series sets the standard for a small frame semi-automatic precision rifle. Utilizing lessons learned during the development of our Multi Purpose Carbine, the DML is optimized for mid-range shooting.\n \n
+		%c[ui_gray_3]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] • %c[ui_gray_2] 5.56x45mm compatible suppressor\n \n
+		</text>
+	</string>
+
+</string_table>
